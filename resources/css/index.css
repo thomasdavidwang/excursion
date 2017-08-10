@@ -4,3 +4,23 @@ body {
 	background-color: black;
 	color: white;
 }
+p {
+	color: gray;
+}
+#banner {
+	font-size: 50px;
+}
+.heading {
+	font-weight: 300px;
+	font-size: 42px;
+}
+.link {
+	color: aquamarine;
+	font-size: 16px;
+}
+.text {
+	font-size: 21px;
+}
+.footer {
+	text-align: right;
+}
